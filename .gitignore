@@ -27,3 +27,6 @@ dist/*
 .DS_Store
 *.dta
 *.ipynb_checkpoints*
+Labs/Lab 5 Ingesting and Processing Large-Scale Data/Part I MapReduce/.mrjob.conf
+Labs/Lab 5 Ingesting and Processing Large-Scale Data/Part I MapReduce/.mrjob.conf
+Labs/Lab 5 Ingesting and Processing Large-Scale Data/Part II Kinesis/lab5_macs30123_env.ipynb
